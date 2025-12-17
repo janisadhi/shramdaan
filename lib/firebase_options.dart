@@ -50,21 +50,21 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCrRIJVutDJ7LlBvsDgNE64hKAvEFyPHLI',
-    appId: '1:827981671830:web:80f684277a3781c03981b7',
-    messagingSenderId: '827981671830',
-    projectId: 'shram-daan',
-    authDomain: 'shram-daan.firebaseapp.com',
-    storageBucket: 'shram-daan.firebasestorage.app',
-    measurementId: 'G-ZWJJGB4KYW',
+    apiKey: 'AIzaSyD6MtDj_RJpLHguvnJMtXDIvAmIkGhaxtc',
+    appId: '1:541706128340:web:83bffbcaa469f43a7a6441',
+    messagingSenderId: '541706128340',
+    projectId: 'shram-daan-72a9b',
+    authDomain: 'shram-daan-72a9b.firebaseapp.com',
+    storageBucket: 'shram-daan-72a9b.firebasestorage.app',
+    measurementId: 'G-YD3HXE9Z00',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDx8-2gcKU4JyBrrfJfUbW46D7pweu1qmc',
-    appId: '1:827981671830:android:105445f027feb0083981b7',
-    messagingSenderId: '827981671830',
-    projectId: 'shram-daan',
-    storageBucket: 'shram-daan.firebasestorage.app',
+    apiKey: 'AIzaSyCznZbg185uiyH0Y6uNi4e81XhspxKIOO0',
+    appId: '1:541706128340:android:32c6931405f21f717a6441',
+    messagingSenderId: '541706128340',
+    projectId: 'shram-daan-72a9b',
+    storageBucket: 'shram-daan-72a9b.firebasestorage.app',
   );
 
 }

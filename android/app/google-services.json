@@ -1,36 +1,26 @@
 {
   "project_info": {
-    "project_number": "827981671830",
-    "project_id": "shram-daan",
-    "storage_bucket": "shram-daan.firebasestorage.app"
+    "project_number": "541706128340",
+    "project_id": "shram-daan-72a9b",
+    "storage_bucket": "shram-daan-72a9b.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:827981671830:android:105445f027feb0083981b7",
+        "mobilesdk_app_id": "1:541706128340:android:32c6931405f21f717a6441",
         "android_client_info": {
           "package_name": "com.example.myapp"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "827981671830-vd4p3v7l1imrrokqju05vhq1kh3uh2n5.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDx8-2gcKU4JyBrrfJfUbW46D7pweu1qmc"
+          "current_key": "AIzaSyCznZbg185uiyH0Y6uNi4e81XhspxKIOO0"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "827981671830-vd4p3v7l1imrrokqju05vhq1kh3uh2n5.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
